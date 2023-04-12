@@ -84,7 +84,7 @@
     "react-leaflet-bing": "^4.1.0",
     "react-scripts": "2.1.5",
     "react-three-state-checkbox": "^1.2.2",
-    "xml2js": "^0.4.19"
+    "xml2js": "^0.5.0"
   },
   "devDependencies": {
     "assert": "^1.5.0",
